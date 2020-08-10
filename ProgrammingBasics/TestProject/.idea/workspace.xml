@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee22e4b7-ddfa-4757-9dd5-4398e7d4d828" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bqS66YhOxwvk0kqr1iZlO7M9Vt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="novi.basics.Main" />
+      <module name="untitled104" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee22e4b7-ddfa-4757-9dd5-4398e7d4d828" name="Default Changelist" comment="" />
+      <created>1589357951162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589357951162</updated>
+      <workItem from="1589357954339" duration="81000" />
+      <workItem from="1589361281162" duration="2687000" />
+      <workItem from="1589364176832" duration="1052000" />
+      <workItem from="1589367742725" duration="400000" />
+      <workItem from="1589442150196" duration="2052000" />
+      <workItem from="1589445068218" duration="1530000" />
+      <workItem from="1589448338112" duration="847000" />
+      <workItem from="1589479873522" duration="723000" />
+      <workItem from="1589540495980" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="47" width="839" height="955" key="#Main" timestamp="1589361834646">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="541" y="47" width="839" height="955" key="#Main/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589361834646" />
+    <state x="539" y="110" key="FileChooserDialogImpl" timestamp="1589361465287">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="110" key="FileChooserDialogImpl/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589361465287" />
+    <state width="1843" height="161" key="GridCell.Tab.0.bottom" timestamp="1589449185405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="161" key="GridCell.Tab.0.bottom/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589449185405" />
+    <state width="1843" height="161" key="GridCell.Tab.0.center" timestamp="1589449185405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="161" key="GridCell.Tab.0.center/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589449185405" />
+    <state width="1843" height="161" key="GridCell.Tab.0.left" timestamp="1589449185405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="161" key="GridCell.Tab.0.left/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589449185405" />
+    <state width="1843" height="161" key="GridCell.Tab.0.right" timestamp="1589449185405">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="161" key="GridCell.Tab.0.right/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589449185405" />
+    <state x="0" y="0" key="new project wizard" timestamp="1589540517028">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" key="new project wizard/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589540517028" />
+    <state x="364" y="231" width="1177" height="1976" key="run.anything.popup" timestamp="1589442524830">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="364" y="231" width="1177" height="1976" key="run.anything.popup/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589442524830" />
+    <state x="369" y="-2" width="1177" height="1976" key="search.everywhere.popup" timestamp="1589443230287">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="369" y="-2" width="1177" height="1976" key="search.everywhere.popup/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589443230287" />
+  </component>
+</project>

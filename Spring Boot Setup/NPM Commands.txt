@@ -1,0 +1,3 @@
+npm init
+npm install react react-dom rest axios react-router-dom react-validation validator
+npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader webpack webpack-cli

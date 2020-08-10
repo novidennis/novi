@@ -1,0 +1,33 @@
+start.spring.io
+1. Project maken: https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.3.0.RELEASE&packaging=jar&jvmVersion=1.8&groupId=novi.spring&artifactId=helloworld&name=HelloWorld&description=Spring%20Boot%20Hello%20World&packageName=novi.spring.helloworld&dependencies=devtools,configuration-processor,web,thymeleaf,data-rest,data-jpa,postgresql
+
+PostgreSQL
+1. Inloggen bij pgAdmin
+2. Wachtwoord mogelijk aanpassen
+
+Windows: https://dba.stackexchange.com/questions/44586/forgotten-postgresql-windows-password
+Mac: http://cli23.blogspot.com/2013/12/resetting-postgresql-postgres-user.html
+
+Spring Back-end <-> PostgreSQL Database
+1. application properties overnemen en db instellen
+2. Player entity maken
+3. Player repository maken
+4. CommandLineRunner Controller met testdata maken
+
+- Server starten
+- Database testen op: localhost:8080/db
+- Inhoud bekijken in pgAdmin
+
+React Front-end toevoegen
+ 
+1. webpack.config.js toevoegen aan project folder (naast de pom.xml)
+2. Front-end plugin toevoegen aan pom.xml
+3. NPM commands uitvoeren
+4. Kopieer de inhoud van de React map (de index.html en de js folder)
+   naar de src/main/resources/templates folder van de spring boot projectmap
+
+5. View -> Tool Windows -> Maven openen
+6. Demo -> lifecycle -> clean & install runnen
+
+React Front-end <-> Spring
+7. Rest PlayerController maken voor het opvragen van playerInfo

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9dcf18f-e57a-4ff6-81cb-200c3d5ae140" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c4tZrVKPqsUnq7xmDntiqg1ICB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring/HelloWorld" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="novi.basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TicTacToeMain">
+    <configuration name="ArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="novi.basics.practice._2arrays.ArraysMain" />
+      <module name="DemoProjectTicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="novi.basics.practice._2arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="novi.basics.example.ExampleMain" />
+      <module name="DemoProjectTicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="novi.basics.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="novi.practice.arrays.Main" />
+      <module name="DemoProjectTicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="novi.practice.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="novi.basics.practice._1loops.Main" />
+      <module name="DemoProjectTicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="novi.basics.practice._1loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="novi.basics.practice._3tictactoe.TicTacToeMain" />
+      <module name="DemoProjectTicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="novi.basics.practice._3tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.ArraysMain" />
+      <item itemvalue="Application.ExampleMain" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.TicTacToeMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicTacToeMain" />
+        <item itemvalue="Application.ArraysMain" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.ExampleMain" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9dcf18f-e57a-4ff6-81cb-200c3d5ae140" name="Default Changelist" comment="" />
+      <created>1589799751065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589799751065</updated>
+      <workItem from="1589799754463" duration="4132000" />
+      <workItem from="1589870547384" duration="8667000" />
+      <workItem from="1589909010244" duration="1994000" />
+      <workItem from="1589957950597" duration="9082000" />
+      <workItem from="1590148574554" duration="601000" />
+      <workItem from="1590156023109" duration="1000" />
+      <workItem from="1590157582629" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="34" key="#com.intellij.ide.util.MemberChooser" timestamp="1589877848220">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="633" y="34" key="#com.intellij.ide.util.MemberChooser/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589877848220" />
+    <state x="636" y="364" width="622" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589870876291">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="636" y="364" width="622" height="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589870876291" />
+    <state x="590" y="112" key="FileChooserDialogImpl" timestamp="1590157597257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="590" y="112" key="FileChooserDialogImpl/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590157597257" />
+    <state width="1843" height="93" key="GridCell.Tab.0.bottom" timestamp="1589988107787">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="93" key="GridCell.Tab.0.bottom/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589988107787" />
+    <state width="1843" height="93" key="GridCell.Tab.0.center" timestamp="1589988107787">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="93" key="GridCell.Tab.0.center/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589988107787" />
+    <state width="1843" height="93" key="GridCell.Tab.0.left" timestamp="1589988107786">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="93" key="GridCell.Tab.0.left/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589988107786" />
+    <state width="1843" height="93" key="GridCell.Tab.0.right" timestamp="1589988107787">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="93" key="GridCell.Tab.0.right/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589988107787" />
+    <state width="1843" height="394" key="GridCell.Tab.1.bottom" timestamp="1589891212455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="394" key="GridCell.Tab.1.bottom/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589891212455" />
+    <state width="1843" height="394" key="GridCell.Tab.1.center" timestamp="1589891212455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="394" key="GridCell.Tab.1.center/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589891212455" />
+    <state width="1843" height="394" key="GridCell.Tab.1.left" timestamp="1589891212455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="394" key="GridCell.Tab.1.left/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589891212455" />
+    <state width="1843" height="394" key="GridCell.Tab.1.right" timestamp="1589891212455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1843" height="394" key="GridCell.Tab.1.right/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589891212455" />
+    <state x="-1629" y="5" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589799769140">
+      <screen x="-1920" y="5" width="1920" height="1050" />
+    </state>
+    <state x="-1629" y="5" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.5.1920.1050/0.0.1920.1050@-1920.5.1920.1050" timestamp="1589799769140" />
+    <state width="1050" height="742" key="javadoc.popup" timestamp="1589877882076">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1050" height="742" key="javadoc.popup/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589877882076" />
+    <state x="0" y="0" key="new project wizard" timestamp="1589909270073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" key="new project wizard/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589909270073" />
+    <state x="364" y="231" key="run.anything.popup" timestamp="1589818820094">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="364" y="231" key="run.anything.popup/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589818820094" />
+    <state x="369" y="-2" width="1177" height="1976" key="search.everywhere.popup" timestamp="1589818551597">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="369" y="-2" width="1177" height="1976" key="search.everywhere.popup/-1920.5.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589818551597" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/novi/basics/example/ExampleMain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
